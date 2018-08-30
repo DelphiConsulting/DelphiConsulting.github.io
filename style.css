@@ -610,7 +610,8 @@ span.middot {
 .col_half,
 .postcontent.bothsidebar { width: 48%; }
 .col_one_third { width: 30.63%; }
-.col_two_third { width: 65.33%; }
+.col_two_third { width: 60%; }
+.col_one_half { width: 48%; }
 .col_one_fourth,
 .sidebar { width: 22%; }
 .col_three_fourth,
@@ -632,6 +633,7 @@ body.stretched .container-fullwidth {
 .col_full,
 .col_half,
 .col_one_third,
+.col_one_half,
 .col_two_third,
 .col_three_fourth,
 .col_one_fourth,
@@ -10947,6 +10949,7 @@ label.label-muted {
 form .col_full,
 form .col_half,
 form .col_one_third,
+form .col_one_half,
 form .col_two_third,
 form .col_three_fourth,
 form .col_one_fourth,
@@ -11901,6 +11904,7 @@ button.toast-close-button {
 .footer-widgets-wrap .col_full,
 .footer-widgets-wrap .col_half,
 .footer-widgets-wrap .col_one_third,
+.footer-widgets-wrap .col_one_half,
 .footer-widgets-wrap .col_two_third,
 .footer-widgets-wrap .col_three_fourth,
 .footer-widgets-wrap .col_one_fourth,
